@@ -1,0 +1,103 @@
+ticket_id,text,category,priority
+1030,Just wondering if you plan to support dark mode soon.,Technical Issue,low
+1067,Minor bug: the tooltip text is slightly cut off on smaller screens.,Bug Report,low
+1062,The export button produces a corrupted file sometimes.,Bug Report,medium
+1047,Can you help me merge two accounts under one login?,Account Access,medium
+1042,"My account shows the wrong subscription plan, can someone check?",Account Access,medium
+1040,"I've been locked out of my account and need access restored immediately, it's urgent.",Account Access,high
+1090,Can you explain the difference between the Pro and Enterprise plans?,General Inquiry,medium
+1045,"My account shows the wrong subscription plan, can someone check?",Account Access,medium
+1010,"My invoice total looks wrong this month, can you review my billing history?",Billing,medium
+1000,"I was charged twice for my subscription and need this fixed immediately, this is unacceptable.",Billing,high
+1018,"Our production server is down and customers can't access the site, need help now.",Technical Issue,high
+1031,Just wondering if you plan to support dark mode soon.,Technical Issue,low
+1097,Do you have a mobile app available?,General Inquiry,low
+1085,Any plans to add emoji support in comments?,Feature Request,low
+1076,"Please prioritize adding SSO support, it's blocking our enterprise rollout.",Feature Request,high
+1004,URGENT: my card was charged $250.00 in error and I need a refund right now.,Billing,high
+1079,We'd love an API endpoint for retrieving usage analytics.,Feature Request,medium
+1033,How do I enable keyboard shortcuts in the app?,Technical Issue,low
+1012,Is it possible to switch from monthly to annual billing?,Billing,low
+1026,"The dashboard is loading very slowly today, is there a known issue?",Technical Issue,medium
+1100,How do I contact sales for a custom quote?,General Inquiry,low
+1053,Just want to confirm my account is on the correct plan.,Account Access,low
+1022,"Our production server is down and customers can't access the site, need help now.",Technical Issue,high
+1068,Noticed a typo in the error message on the login form.,Bug Report,low
+1044,"I forgot my password and the reset email isn't arriving, can you assist?",Account Access,medium
+1098,"Just wanted to say the new update looks great, thanks!",General Inquiry,low
+1015,Just curious what payment methods you accept for subscriptions.,Billing,low
+1073,"Please prioritize adding SSO support, it's blocking our enterprise rollout.",Feature Request,high
+1039,"Someone else may have accessed my account, please secure it right now.",Account Access,high
+1009,"My invoice total looks wrong this month, can you review my billing history?",Billing,medium
+1084,Would be a nice-to-have to reorder items via drag and drop.,Feature Request,low
+1011,"I noticed an extra charge of $15.00 on my last invoice, can someone check this?",Billing,medium
+1101,Do you have a mobile app available?,General Inquiry,low
+1055,"The API is returning 500 errors for all requests since this morning, urgent fix needed.",Bug Report,high
+1028,"The dashboard is loading very slowly today, is there a known issue?",Technical Issue,medium
+1064,The export button produces a corrupted file sometimes.,Bug Report,medium
+1005,"I was charged twice for my subscription and need this fixed immediately, this is unacceptable.",Billing,high
+1078,Could you add support for custom tags on tickets?,Feature Request,medium
+1065,There's a bug where the date filter resets after refreshing the page.,Bug Report,medium
+1035,How do I enable keyboard shortcuts in the app?,Technical Issue,low
+1016,Where can I update my billing address on file?,Billing,low
+1091,Can you explain the difference between the Pro and Enterprise plans?,General Inquiry,medium
+1034,Is there a way to change the default theme in the app settings?,Technical Issue,low
+1007,Can you clarify the charge of $19.99 that appeared on my statement?,Billing,medium
+1043,I need to change the email address linked to my account.,Account Access,medium
+1072,We urgently need bulk export support before our audit deadline next week.,Feature Request,high
+1027,"Search results seem inconsistent, could this be a bug?",Technical Issue,medium
+1019,"Login is completely broken for our whole team right now, please help urgently.",Technical Issue,high
+1083,Would be helpful to have bulk editing for multiple records at once.,Feature Request,medium
+1025,"The dashboard is loading very slowly today, is there a known issue?",Technical Issue,medium
+1077,"Please prioritize adding SSO support, it's blocking our enterprise rollout.",Feature Request,high
+1049,How can I change my display name?,Account Access,low
+1013,Just curious what payment methods you accept for subscriptions.,Billing,low
+1024,The mobile app sometimes freezes when I switch tabs.,Technical Issue,medium
+1003,URGENT: my card was charged $49.00 in error and I need a refund right now.,Billing,high
+1017,How can I download my past invoices from the billing page?,Billing,low
+1038,"I can't log in at all and I have a client deadline in an hour, please help ASAP.",Account Access,high
+1008,"I noticed an extra charge of $19.99 on my last invoice, can someone check this?",Billing,medium
+1080,Could you add support for custom tags on tickets?,Feature Request,medium
+1006,"I noticed an extra charge of $15.00 on my last invoice, can someone check this?",Billing,medium
+1066,Small cosmetic bug where the icon color doesn't match the theme.,Bug Report,low
+1036,"I've been locked out of my account and need access restored immediately, it's urgent.",Account Access,high
+1089,Just a small suggestion: maybe add more color theme options.,Feature Request,low
+1056,Critical bug: the checkout page throws an error and no one can complete a purchase.,Bug Report,high
+1095,Do you offer discounts for non-profits?,General Inquiry,medium
+1054,"Found a bug that deletes user data permanently, this needs immediate attention.",Bug Report,high
+1050,Just want to confirm my account is on the correct plan.,Account Access,low
+1069,"The footer link goes to a 404 page, probably just needs updating.",Bug Report,low
+1046,"I forgot my password and the reset email isn't arriving, can you assist?",Account Access,medium
+1070,Noticed a typo in the error message on the login form.,Bug Report,low
+1061,There seems to be a bug with timezone conversion in the calendar view.,Bug Report,medium
+1099,How do I contact sales for a custom quote?,General Inquiry,low
+1081,Could you add support for custom tags on tickets?,Feature Request,medium
+1041,"I've been locked out of my account and need access restored immediately, it's urgent.",Account Access,high
+1058,"Found a bug that deletes user data permanently, this needs immediate attention.",Bug Report,high
+1048,Just want to confirm my account is on the correct plan.,Account Access,low
+1088,Would be a nice-to-have to reorder items via drag and drop.,Feature Request,low
+1057,"Found a bug that deletes user data permanently, this needs immediate attention.",Bug Report,high
+1075,"Please prioritize adding SSO support, it's blocking our enterprise rollout.",Feature Request,high
+1032,Is there a way to change the default theme in the app settings?,Technical Issue,low
+1096,How do I contact sales for a custom quote?,General Inquiry,low
+1059,"Found a bug that deletes user data permanently, this needs immediate attention.",Bug Report,high
+1063,I found a bug in the notification settings that doesn't save preferences.,Bug Report,medium
+1094,Can you explain the difference between the Pro and Enterprise plans?,General Inquiry,medium
+1037,"I can't log in at all and I have a client deadline in an hour, please help ASAP.",Account Access,high
+1029,The mobile app sometimes freezes when I switch tabs.,Technical Issue,medium
+1001,"I was charged twice for my subscription and need this fixed immediately, this is unacceptable.",Billing,high
+1052,Just want to confirm my account is on the correct plan.,Account Access,low
+1021,"The app crashed and I lost all my unsaved work, this is critical.",Technical Issue,high
+1002,"I have been billed incorrectly for the third month in a row, fix this ASAP.",Billing,high
+1023,"Our production server is down and customers can't access the site, need help now.",Technical Issue,high
+1087,It might be nice to have a keyboard shortcut cheat sheet.,Feature Request,low
+1093,Do you offer discounts for non-profits?,General Inquiry,medium
+1074,We urgently need bulk export support before our audit deadline next week.,Feature Request,high
+1086,It might be nice to have a keyboard shortcut cheat sheet.,Feature Request,low
+1082,We'd love an API endpoint for retrieving usage analytics.,Feature Request,medium
+1020,"The app crashed and I lost all my unsaved work, this is critical.",Technical Issue,high
+1060,There seems to be a bug with timezone conversion in the calendar view.,Bug Report,medium
+1071,Minor bug: the tooltip text is slightly cut off on smaller screens.,Bug Report,low
+1014,Is it possible to switch from monthly to annual billing?,Billing,low
+1092,Can you explain the difference between the Pro and Enterprise plans?,General Inquiry,medium
+1051,Is there a way to add a second user to my account?,Account Access,low
